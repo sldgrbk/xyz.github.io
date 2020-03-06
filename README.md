@@ -9,4 +9,6 @@ site
 
 #unzip master.zip
 
+#mkdir -p /home/sldgrbk/xyz
+
 #cp -rf xyz.github.io-master/* /home/sldgrbk/xyz
