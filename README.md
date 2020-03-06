@@ -1,7 +1,7 @@
 # xyz.github.io
 site
 
-安裝伪装站点，伪站点路径/var/www/html
+安裝伪装站点，伪站点路径/home/sldgrbk/xyz
 
 #apt install wget zip unzip
 
