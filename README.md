@@ -9,4 +9,4 @@ site
 
 #unzip master.zip
 
-#cp -rf mikewubox.github.io-master/* /var/www/html
+#cp -rf xyz.github.io-master/* /home/sldgrbk/xyz
