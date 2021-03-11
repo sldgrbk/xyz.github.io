@@ -16,7 +16,7 @@ site
 
 
 
-启动方式
+二、启动方式
 启动 V2ray：systemctl start v2ray
 
 停止 V2ray：systemctl stop v2ray
@@ -34,7 +34,7 @@ site
 重启 Nginx 服务：systemctl restart nginx
 
 
-相关目录
+三、相关目录
 Web 目录：/home/wwwroot/3DCEList
 
 V2ray 服务端配置：/etc/v2ray/config.json
